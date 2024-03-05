@@ -50,23 +50,6 @@ Take a look at the live project deployed on Netlify
 
 ## Preview
 
-**DESKTOP --------------------------------------------------------------------**
-
-<img src="https://github.com/Sky-De/Youtube_Clone_App/assets/79264045/251d69af-ed6f-49c4-94af-809376a076a2" width="60%">
-
-<img src="https://github.com/Sky-De/Youtube_Clone_App/assets/79264045/d1155143-10bb-4f16-83bf-1938c4227a55" width="60%">
-
-
-
-
-**Mobile ------------------------------------------------------------------------------**
-
-<img src="https://github.com/Sky-De/Youtube_Clone_App/assets/79264045/6ebe35c4-5e04-4bbc-baec-ae45817fc38d" width="300">
-
-<img src="https://github.com/Sky-De/Youtube_Clone_App/assets/79264045/59d11055-c8bd-4c76-88ee-a145af4da33f" width="300">
-
-
-
 ![line]
 
 ## About
@@ -103,7 +86,7 @@ Provided step-by-step instructions on how to install and run this project locall
 
 ```bash
 # Clone the repository
-git clone https://github.com/Sky-De/Youtube_Clone_App
+git clone https://github.com/Ghassan-SkyDe/Youtube_Clone_App
 
 # Change directory
 cd your-repo-name
@@ -123,10 +106,6 @@ npm run start
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
 ## Contact
 
-**skyDe**
+**Ghassan-SkyDe**
 
-[LinkedIn](https://www.linkedin.com/in/sky-de-763248228)
-
-[GitHub](https://github.com/Sky-De)
-
-[Twitter](https://twitter.com/SkyDe1991?t=b2SJxGA4wmHwwgxDUUtE8Q&s=09)
+[GitHub](https://github.com/Ghassan-SkyDe)

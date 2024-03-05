@@ -22,7 +22,7 @@ const Feed = () => {
         <Typography className="copyright" variant="body2" sx={{
           mt: 1.5,
           color: "#fff"
-        }}>Copyright 2023 SkyDe App</Typography>
+        }}>Copyright 2023 Ghassan-SkyDe App</Typography>
       </Box>
 
       <Box p={3} sx={{ overflowY: 'auto', height: "85vh", flex: 2}}>
